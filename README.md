@@ -3,7 +3,7 @@ Repository with patched for different languages files of PEPPERED Demo
 
 Credits:
  - Ukraninian
- - - Subtitles: 20%
+ - - Subtitles: 5%
  - - Sprites: 0% (Maybe i'll translate them in future)
  - - Translating: NickSaltFoxu
 
